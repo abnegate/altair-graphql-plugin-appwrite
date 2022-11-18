@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "altair-graphql-plugin-appwrite",
+  "version": "1.0.1",
+  "display_name": "Appwrite Altair",
+  "description": "Appwrite Altair GraphQL plugin",
+  "author_email": "jakeb994@gmail.com",
+  "author": "Jake Barnby",
+  "plugin_class": "AppwriteAltair",
+  "capabilities": [
+    "header.read",
+    "header.write"
+  ],
+  "sidebar_opts": {
+    "logo": "https://appwrite.io/images/press/logo.png",
+    "name": "Appwrite Altair",
+    "description": "Appwrite Altair GraphQL plugin",
+    "button": {
+      "text": "Connect",
+      "link": "https://appwrite.io"
+    }
+  },
+  "scripts": [
+    "appwrite-altair.js"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "altair-graphql-plugin-appwrite",
+  "version": "1.0.1",
+  "description": "Appwrite Altair GraphQL Plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abnegate/altair-graphql-plugin-apwprite.git"
+  }
+}
